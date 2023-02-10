@@ -1,0 +1,15 @@
+4 3 5
+i3 architetto giulia rossi
+i1 geometra gianni bianchi
+i4 ingegnere carlo viola
+i2 ingegnere paolo neri
+c2 piccola l3
+c1 grande l1,l2
+c3 media l4,l5
+l2 i1 ritocco 14 2
+l1 i3 ristrutturazione 150 40
+l4 i4 ritocco 21 3
+l3 i2,i1 costruzione 270 160
+l5 i3,i4 costruzione 150 90
+TASK2 30 3 60
+
